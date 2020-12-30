@@ -1,5 +1,6 @@
 # data
 Resources/
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
